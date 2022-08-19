@@ -1,2 +1,2 @@
 # odin-recipes
-This is the readme file
+This project is about a basic recipe website 
